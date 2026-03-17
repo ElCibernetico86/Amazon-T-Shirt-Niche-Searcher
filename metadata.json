@@ -1,0 +1,5 @@
+{
+  "name": "Amazon T-Shirt Niche Searcher",
+  "description": "An application that helps users search for t-shirt niches on Amazon.com, with predefined category ('Novelty and more') and page settings (page 3) for efficient research.",
+  "requestFramePermissions": []
+}
